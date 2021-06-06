@@ -1,1 +1,2 @@
-# s1fly.github.io
+# s1f
+.github.io
